@@ -10,7 +10,7 @@ if ($registros) {
     ?>
 
 <!DOCTYPE html>
-<!--Comentario de prueba -->
+
 <html lang="es">
     <head>
         <meta charset="UTF-8">
