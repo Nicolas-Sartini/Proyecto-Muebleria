@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "files": ["modelo/databaseconnect.php", "modelo/mueble.php", "modelo/config.php", "controlador/muebleMapper.php"],
+        "psr-4": {"controlador\\": "controlador/", "modelo\\": "modelo/"}
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
